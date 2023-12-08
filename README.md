@@ -1,13 +1,11 @@
-# YanXIE
-Homepage
 <h1 align="center">Hi :wave: I'm Yan</h1>
 <h3 align="center">A hydrometeorology, remote sensing enthusiast</h3>
 
-- I'm currently working on [Rain-on-snow events in northern Alaska]
-
+- My current research focuses on [rain-on-snow events] in northern Alaska with Prof. Claire Pettersen and Prof. Mark Flanner at the University of Michigan
+  
 - Contact me via email: **yanxieyx@umich.edu**
 
-- Find my publishment [ORCID webpage for Yan]([https://orcid.org/0000-0002-5475-3126])
+- Find my publishment via ORCID: [0000-0002-5475-3126](https://orcid.org/0000-0002-5475-3126)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
