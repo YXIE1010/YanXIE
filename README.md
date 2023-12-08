@@ -9,4 +9,4 @@
 
 - Contact me via email: **yanxieyx@umich.edu** I expect to graduate in Fall 2024, and would appreciate any info on potential postdoc position
 
-- For more information on my research experiences, check my [CV](https://drive.google.com/file/d/1vACYzkPH8TVAz9OO-maGwMhESDTPR6ox/export?format=pdf) or [LinkedIn profile](https://www.linkedin.com/in/yan-xie-b79548252/)
+- For more information on my research experiences, check my [CV](https://drive.google.com/file/d/1vACYzkPH8TVAz9OO-maGwMhESDTPR6ox/view?usp=sharing) or [LinkedIn profile](https://www.linkedin.com/in/yan-xie-b79548252/)
