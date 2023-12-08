@@ -1,9 +1,9 @@
 <h1 align="center">Hi :wave: I'm Yan</h1>
 <h3 align="center">A hydrometeorology, remote sensing enthusiast</h3>
 
-- I'm currently a 5th-year PhD Candidate from University of Michigan working with [Prof. Claire Pettersen](https://pettersen.engin.umich.edu/) and [Prof. Mark Flanner](https://flanner.engin.umich.edu/)
+- I'm currently a 5th-year PhD Candidate from [Dept. of Climate and Space Sciences and Engineering](https://clasp.engin.umich.edu/) at University of Michigan, working with [Prof. Claire Pettersen](https://pettersen.engin.umich.edu/) and [Prof. Mark Flanner](https://flanner.engin.umich.edu/).
   
-- My current research focuses on **rain-on-snow events** in northern Alaska
+- My current research focuses on **rain-on-snow events** using ground observations from [DOE ARM program](https://www.arm.gov/) in northern Alaska. I will present this work at AGU2023 **Session C32C** on Wednesday, December 13th. Click to add [Yan's presentation info](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1351504) to your schedule and let's chat!
 
 - Find my publishment via ORCID: [0000-0002-5475-3126](https://orcid.org/0000-0002-5475-3126)
 
