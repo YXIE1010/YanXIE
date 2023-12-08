@@ -1,12 +1,14 @@
 <h1 align="center">Hi :wave: I'm Yan</h1>
 <h3 align="center">A hydrometeorology, remote sensing enthusiast</h3>
 
-- My current research focuses on [rain-on-snow events] in northern Alaska with Prof. Claire Pettersen and Prof. Mark Flanner at the University of Michigan
+- I'm currently a 5th-year PhD Candidate from University of Michigan working with [Prof. Claire Pettersen](https://pettersen.engin.umich.edu/) and [Prof. Mark Flanner](https://flanner.engin.umich.edu/)
   
-- Contact me via email: **yanxieyx@umich.edu**
+- My current research focuses on **rain-on-snow events** in northern Alaska
 
 - Find my publishment via ORCID: [0000-0002-5475-3126](https://orcid.org/0000-0002-5475-3126)
 
+- Contact me via email: **yanxieyx@umich.edu**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/frasertheking" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="frasertheking" height="30" width="40" /></a>
