@@ -7,4 +7,6 @@
 
 - Find my publishment via ORCID: [0000-0002-5475-3126](https://orcid.org/0000-0002-5475-3126) about my previous work on **atmospheric radiation** and **satellite remote sensing**
 
-- Contact me via email: **yanxieyx@umich.edu** I expect to graduate in Fall 2024, and would appreciate any info on potential postdoc position 
+- Contact me via email: **yanxieyx@umich.edu** I expect to graduate in Fall 2024, and would appreciate any info on potential postdoc position
+
+- For more information on my research experiences, check my [LinkedIn profile](https://www.linkedin.com/in/yan-xie-b79548252/)
